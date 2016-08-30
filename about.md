@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Born in Mexico City, raised in Cancun and graduated from [Bowdoin College](www.bowdoin.edu).
+I currently live in Florida but seeking to relocate to a major tech hub.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I have experience with C++, Java and Python, and I am gaining experience with HTML, CSS
+Javascript, SQL and other fun things. I am particularly interested in all things related to
+Data Science and analyzing people's motivations and behavior with data.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I love the outdoors, particularly water sports and hiking. I also like exercising and
+occassionally playing land sports, soccer mostly.
+
+

@@ -16,18 +16,16 @@
 title: Franco Sasieta
 email: franco.sasieta@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    My name is Franco; I am a recent graduate from Bowdoin College
-    and I am looking to break into the technology industry. This is
-    my first time with anything web based, so feel free to take a look
-    around.
+    Recent graduate. Nature lover. Has passion for solving hard
+    problems. Reads math books for fun.
 #Write an awesome description for your new site here. You can edit this
 #line in _config.yml. It will appear in your document head meta (for
 #Google search results) and in your feed.xml site description.
 # (the previous paragraph left there in case I ever need it.)
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+url: "http://francosasieta.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
 github_username: fsasieta
 
 # Build settings
