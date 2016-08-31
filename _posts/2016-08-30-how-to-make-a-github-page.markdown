@@ -2,6 +2,7 @@
 layout: post
 title: "How to make a simple webpage using Jekyll"
 date: 2016-08-30 11:25:00 -0400
+comments: true
 category: computer science
 ---
 
