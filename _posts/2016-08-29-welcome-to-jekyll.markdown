@@ -2,6 +2,7 @@
 layout: post
 title:  "Grand Opening!"
 date:   2016-08-29 11:41:03 -0400
+comments: true
 categories: first post
 ---
 
