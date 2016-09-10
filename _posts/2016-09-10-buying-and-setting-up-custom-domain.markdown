@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Buying and setting up a custom domain on github pages"
+title: "Setting up a custom domain on github pages"
 date: 2016-09-10 19:50:00
 comments: true
 category: computer science
