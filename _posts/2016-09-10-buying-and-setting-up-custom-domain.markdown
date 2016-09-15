@@ -58,8 +58,9 @@ record. You should set up one from `youUsername.github.io` to your domain name (
 
 
 After that it should be done! now you only have to wait some time for the changes to
-propagate through the network (they ask about 1 to two days but I only waited for 1 to 2 hours)
-Thanks for reading!.
+propagate through the network (they ask about 1 to two days but I only waited for 1 to 2 hours).
+
+Thanks for reading!
 
 
 
