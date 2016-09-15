@@ -47,14 +47,14 @@ so I just log into the godaddy webpage. After, go to your domasn's DNS managemen
 step is to setup something called and ANAME. This basically tells your domain company what server
 you are hosting your webpage in. After setting those up you should have something like:
 
-[ANAME example]( {{site.url}}/assets/Screen Shot 2016-09-09 at 9.18.06 PM.png )
+![ANAME example]( {{site.url}}/assets/Screen Shot 2016-09-09 at 9.18.06 PM.png )
 
 The `@` simply means "from the host (domain registrar) company". The IP addresses in the picture
 are the ones used by github for github pages. The next thing to do is set up a [CNAME][cname] 
 record. You should set up one from `youUsername.github.io` to your domain name (without the
 ".com" and another from `www` to `youUsername.github.io`.
 
-[CNAME example]( {{site.url}}/assets/Screen Shot 2016-09-10 at 2.40.10 PM.png)
+![CNAME example]( {{site.url}}/assets/Screen Shot 2016-09-10 at 2.40.10 PM.png)
 
 
 After that it should be done! now you only have to wait some time for the changes to
