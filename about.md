@@ -11,8 +11,11 @@ I have experience with C++, Java and Python, and I am gaining experience with HT
 Javascript, SQL and other fun things. I am particularly interested in all things related to
 Data Science and analyzing people's motivations and behavior with data.
 
+Checkout my resume [here][resume].
+
 I love the outdoors, particularly water sports and hiking. I also like exercising and
 occassionally playing land sports, soccer mostly.
 
 [bowdoin]: http://www.bowdoin.edu
+[resume]: {{site.url}}/assets/Resume_FrancoSasieta.pdf
 
