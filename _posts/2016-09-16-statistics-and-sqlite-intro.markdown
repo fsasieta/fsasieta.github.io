@@ -186,6 +186,7 @@ plot in GUI window.
 ![European players younger than me]({{site.url}}/assets/players_younger_than_me.png)  
 
 This is the end result. Pretty neat! Things learned here:
+
 * Databases about something you remotely like are fun to explore.
 * Visualizations are extremely useful in exploring data efficiently. 
 * There are 17 year old professional soccer players. I shouldn't be suprised but I still am.
