@@ -31,7 +31,7 @@ described the characteristics of soccer players, the tuples would be an entire r
 values of each attribute form a column 
 
 ![sample soccer table (credit to kaggle.com for providing the dataset)](
-{{site.url}}/assets/sample_soccer.png)
+{{site.url}}/assets/soccer_sample.png)
 
 Credit: kaggle.com european soccer dataset.
 
