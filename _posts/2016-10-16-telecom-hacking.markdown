@@ -26,7 +26,7 @@ started talking with 2 other people and then we expanded to 4 team members total
 Friday we didn't have a set idea, nor had we started coding. At the moment I was a little
 stressed bout this, but in retrospect it turned out rather well.
 
-![covo workspace]({{site.url}}/assets/covo_worskspace.jpg)
+![covo workspace]({{site.url}}/assets/covo_workspace.jpg)
 The place where the hackathon was hosted
 
 Saturday came and I was the first one to get there. It is always kind of awkward to be the only 
