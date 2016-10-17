@@ -14,7 +14,7 @@ use of telecommunications technology. This means that the hacks made during the 
 to be somewhat related, or rather, were strongly encouraged to use a communications technology.
 (or develop one!). There were several companies sponsoring the event, such as Cisco with 
 [Spark][cisco_spark] and [Tropo][tropo], [hSenid][hsenid], [Matrix][matrix], [reTHINK][rethink],
- [Telestax][telestax] & Dialogic, [Canonical][canonical] (the creators of ubuntu) with 
+ [Telestax][telestax] & Dialogic, [Canonical][canonical] (the creators of Ubuntu) with 
 [snaps][snaps]  and [VoxImplant][voximplant].  It was hosted at [Covo][covo] which provided us
 with an amazing venue to meet new hackers and exchange thoughts, ideas and dreams. Great spot,
 great hosts, great food even! (we were fed the entire hack weekend!) 
@@ -24,7 +24,7 @@ I had, learned new ideas and had a back and forth with many people. I honestly h
 prepared with an idea, but had wanted to explore communications in an application. I initially 
 started talking with 2 other people and then we expanded to 4 team members total. By the end of 
 Friday we didn't have a set idea, nor had we started coding. At the moment I was a little
-stressed bout this, but in retrospect it turned out rather well.
+stressed about this, but in retrospect it turned out rather well.
 
 ![covo workspace]({{site.url}}/assets/covo_workspace.jpg)
 The place where the hackathon was hosted
@@ -62,6 +62,10 @@ be divided amongst the team members and some really cool swag.
 Many thanks to Dan, Alex, Patrick, Travis, Roy, Milin, JZ and all of the organizers of the event
 for letting us use this weekend to learn new technologies and let us use the incredible space.
 I look forward to going to more hackathons!
+
+
+EDIT: I found a link to our presentations in [youtube](https://www.youtube.com/watch?v=uDMALXgzIfc).
+My team's presentation start at minute 34.
 
 
 [tadhack]:     http://tadhack.com/2016/
