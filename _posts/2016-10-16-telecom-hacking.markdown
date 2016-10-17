@@ -33,7 +33,8 @@ Saturday came and I was the first one to get there. It is always kind of awkward
 one in a coders competition, but it wasn't long before other people came so it turned out fine.
 The competition started at 8 am so I guess I was there pretty early. At some point discussing the
 our idea another team approached us and we ended up merging into an 8 person team to work on a 
-novel social network application. We called it *I'm Here*. The novel part of our network was that
+novel  proximity based social application for sharing content with business enabled real time 
+promotions. We called it *I'm Here*. The novel part of our application was that
 any person could create groups based on location and interest, and meet with strangers that could
 be interested by the idea of the group. the groups were temporary, so you would not be 
 constrained to a specific geographic area. I wasn't initially convinced about the idea, but I 
