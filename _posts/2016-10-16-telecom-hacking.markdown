@@ -60,13 +60,14 @@ as an app demo that was used during our presentation.
 Our team ended up winning first place, which I am ecstatic about. We got a cash price which will
 be divided amongst the team members and some really cool swag.
 
-Many thanks to Dan, Alex, Patrick, Travis, Roy, Milin, JZ and all of the organizers of the event
+Many thanks to Roy, Alex, Patrick, Travis, Roy, Milin, Preyansh and Dan for being part of the awesome team.
+Many thanks to all of the organizers of the event
 for letting us use this weekend to learn new technologies and let us use the incredible space.
 I look forward to going to more hackathons!
 
 
 EDIT: I found a link to our presentations in [youtube](https://www.youtube.com/watch?v=uDMALXgzIfc).
-My team's presentation start at minute 34.
+My team's presentation starts at minute 34.
 
 
 [tadhack]:     http://tadhack.com/2016/
