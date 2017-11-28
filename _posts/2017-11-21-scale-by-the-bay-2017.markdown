@@ -8,11 +8,11 @@ category: conferences
 
 # Scale by the Bay
 
-Last week I was fortunate to attend [Scale by the Bay][scale_by_the_bay], the premier 
+Last week I was fortunate to attend [Scale by the Bay](https://web.archive.org/web/20171120012950/http://scale.bythebay.io/), the premier 
 Scala conference organized in San Francisco. The conference was hosted on the second floor
 of the the Twitter Headquarters, taking up the entire floor. It was an amazing experience, and
 I felt privileged to be one of the people in my company selected to attend. Rather than repeat 
-all of the talks given (which will be posted [here][videos_of_talks] soon, if they are not
+all of the talks given (which will be posted [here](https://www.youtube.com/user/FunctionalTV/playlists) soon, if they are not
 already) I will recall some of my favorite ones/the ones that I thought were the most
 insightful.
 
@@ -33,17 +33,17 @@ computer science in college, I went to a liberal arts school, which emphasized b
 knowledge and curiosity in other areas of study. 2) Scientists have been criticized for not
 collaborating enough between each other and it is great to see someone advocate against the
 reinvention of the wheel and really just making scientists talk more 
-(see the podcast on a [TED talk][ted_podcast] for what I mean) and 3) It was just a great talk
+(see the podcast on a [TED talk](https://web.archive.org/web/20171120020218/https://www.npr.org/programs/ted-radio-hour/551030943/citizen-science) for what I mean) and 3) It was just a great talk
 to start to conference with.
 
-The next talk I will write about is one by [Adelbert Chang][adelbert_twitter] from Target, titled "The
+The next talk I will write about is one by [Adelbert Chang](https://twitter.com/adelbertchang) from Target, titled "The
 Functor, Applicative, Monad talk". Coming to the conference and having but a single year of 
 Scala development experience, I was a little worried most of the talks would be too advanced or 
 specific and hence I wouldn't learn much either. This one was the opposite, and turned out to be
 one of the most useful ones (which I see myself redirecting people to in the future). The talk 
 aimed to explain some of the most important concepts in functional programming in the time
 alloted for the talk (40 min) and in my opinion succeeded spectacularly at doing it. He was even
-kind enough to [post the slides online][slides_fp_talk]. Having studied math in college, grasping what a
+kind enough to [post the slides online](https://speakerdeck.com/adelbertc/the-functor-applicative-monad-talk). Having studied math in college, grasping what a
 monad is was easy to me, but I have noticed that people without a similar background may
 struggle with the concept and I learned a new approach to show what these concepts are all
 about.
