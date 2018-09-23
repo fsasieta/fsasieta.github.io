@@ -28,6 +28,7 @@ url: "http://francosasieta.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username: fsasieta
 linkedin_username: francosasieta
+twitter_username: francosasieta
 disqus:
     shortname: francosasieta
 
