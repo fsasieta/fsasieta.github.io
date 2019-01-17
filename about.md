@@ -7,12 +7,11 @@ permalink: /about
 Born in Mexico City, raised in Cancun and graduated from [Bowdoin College][bowdoin].
 
 I have professional experience with Scala and breathe functional programming in my day to day job.
-In my spare time you will see me dabble in IoT and hardware projects every now and then. I studied
-math and computer science in college and I'm a fan of reading math books (or ficiton as well) so
-if you have any recommendations, please send them my way!
+In my spare time you will see me dabble in IoT and hardware projects every now and then. I am a fan
+of most types of books, so if you have an recommendations, please send them my way.
 
-I originally started this blog to explore all things data science, but have decided to broaden my topics,
-not saying that i won't explore any other data sets but that is not all I'll do.
+I originally started this blog to explore all things data science, but have decided to broaden my
+topics. I will try to expore more in that are, but I have also found other interests.
 
 Checkout my resume [here][resume].
 
