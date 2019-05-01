@@ -11,7 +11,7 @@ In my spare time you will see me dabble in IoT and hardware projects every now a
 of most types of books, so if you have an recommendations, please send them my way.
 
 I originally started this blog to explore all things data science, but have decided to broaden my
-topics. I will try to expore more in that are, but I have also found other interests.
+topics. 
 
 Checkout my resume [here][resume].
 
